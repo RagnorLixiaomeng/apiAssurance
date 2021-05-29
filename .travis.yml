@@ -3,7 +3,7 @@ language: python
 python:
  - 3.8
 install:
- - pip install unittest
+ - pip install pytest
 script:
  - python entrance.py
 
